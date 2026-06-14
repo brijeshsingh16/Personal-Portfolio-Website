@@ -24,10 +24,11 @@ Brijesh-Singh-Portfolio/
 │
 ├── index.html
 ├── style.css
-├── README.md 
+├── README.md
+│
 └── photo/
-    └── profile.jpg
-    |__ bs-space-resume.pdf
+    ├── profile.jpg
+    └── bs-space-resume.pdf
 
 
 ## 📬 Contact
