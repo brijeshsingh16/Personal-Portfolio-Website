@@ -14,7 +14,7 @@ Welcome to my personal portfolio website. This project showcases my skills, educ
 
 * HTML5
 * CSS3
-* JavaScript (ES6+)
+* JavaScript
 * Font Awesome
 * Google Fonts
 
@@ -27,7 +27,6 @@ Welcome to my personal portfolio website. This project showcases my skills, educ
 * Animated Hero Section
 * Custom Cursor Effects
 * Scroll Reveal Animations
-* Interactive Project Showcase
 * WhatsApp Contact Integration
 * SEO Optimized Meta Tags
 * Mobile-Friendly Navigation
@@ -40,7 +39,6 @@ Welcome to my personal portfolio website. This project showcases my skills, educ
 * Intro / Hero
 * About Me
 * Education
-* Featured Projects
 * Skills & Expertise
 * Full Toolkit
 * Contact 
